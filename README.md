@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiang-yf</h1>
-<h3 align="center">I'm currently an undergraduate from ZJU, majoring in statistic</h3>
+<h3 align="center">I'm currently an undergraduate from ZJU, majoring in statistics</h3>
 
 - 👯 I’m looking to collaborate on **ML,AI**
 - 📫 How to reach me **jiangyifan1807@163.com**
