@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yifan_Jiang</h1>
+<h1 align="center">Hi 👋, I'm Yifan Jiang</h1>
 <h3 align="center">I'm currently an undergraduate from Zhejiang University(ZJU), majoring in Artificial Intelligence.</h3>
 
 - 👯 I’m looking to collaborate on **ML,AI**
